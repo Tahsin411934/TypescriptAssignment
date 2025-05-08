@@ -1,3 +1,5 @@
+## Please click on a question to expand and see the answer.
+
 <details>
   <summary><strong> What are some differences between interfaces and types in TypeScript?</strong></summary>
 
